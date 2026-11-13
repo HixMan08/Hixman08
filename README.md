@@ -1,12 +1,11 @@
 # yo, i'm Adil 👋
 
-I like building apps, websites, and game stuff. Lately I've been working with Flutter + Dart, Godot + GDScript, Roblox Studio + Luau, and React + TypeScript. Still learning as I go and seeing what clicks.
+## my stack
 
-## what i'm using
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,godot,robloxstudio,react,ts" alt="Flutter, Dart, Godot, Roblox Studio, React, TypeScript" />
+</p>
 
-Flutter · Dart · Godot · GDScript · Roblox Studio · Luau · React · TypeScript
-
-## stuff i've built
-## around here
-
-[GitHub](https://github.com/HixMan08) · [Portfolio](https://hixman08.github.io/)
+- 📱 **Mobile:** Flutter · Dart
+- 🎮 **Game dev:** Godot · GDScript · Roblox Studio · Luau
+- 🌐 **Web:** React · TypeScript
