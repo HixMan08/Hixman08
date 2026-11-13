@@ -1,6 +1,5 @@
 # yo, i'm Adil 👋
 
-## My stack 
 ## Game Dev stff
 
 <p align="center">
